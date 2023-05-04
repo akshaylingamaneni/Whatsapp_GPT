@@ -1,0 +1,9 @@
+google-api-python-client
+langchain
+python-dotenv
+googlemaps
+fastapi
+pydantic
+uvicorn
+openai
+beautifulsoup4
