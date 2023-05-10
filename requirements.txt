@@ -7,3 +7,4 @@ pydantic
 uvicorn
 openai
 beautifulsoup4
+twilio

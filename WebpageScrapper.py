@@ -35,6 +35,7 @@ class WebScraper:
         text = text.replace("\n", "").strip()
 
         # Return the extracted text
+
         return text
 
 
